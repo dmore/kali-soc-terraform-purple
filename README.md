@@ -2,6 +2,8 @@
 
 This project is a Terraform-based implementation for deploying a Security Operations Center (SOC) using Kali Linux in AWS. It provides an Infrastructure as Code (IaC) solution that allows users to easily replicate and manage a complete SOC environment using the Kali Purple suite. This implementation is inspired by the original CloudFormation-based deployment by [ZoccoCss](https://github.com/ZoccoCss/kalisoc).
 
+Once resources have been deployed follow [Kali Purple Documentation] (https://gitlab.com/kalilinux/kali-purple/documentation/-/wikis/home) for configuring ElasticSearch and the other tools.
+
 ## Overview
 
 The Kali SOC project allows you to deploy a fully functional Security Operations Center in AWS, leveraging Kali Linux tools for purple team activities. This setup is suitable for practicing security operations, threat detection, response activities, and training.
