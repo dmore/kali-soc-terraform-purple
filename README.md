@@ -94,8 +94,8 @@ This command will create a new SSH key pair named kali_purple_key and store it i
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/your-forked-repository/kalisoc-terraform
-   cd kalisoc-terraform
+   git clone https://github.com/tayontech/kali-soc-terraform.git
+   cd kali-soc-terraform
    ```
 
 2. Initialize Terraform to set up the necessary providers:
