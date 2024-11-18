@@ -278,7 +278,7 @@ terraform destroy
 
 ## Contributing
 
-Contributions are welcome! If you notice any discrepancies between the CloudFormation stack and this Terraform implementation, feel free to open a pull request or issue.
+Contributions are welcome! If you have ideas for improvements, feel free to open a pull request or issue.
 
 The original CloudFormation implementation by ZoccoCss is available at [ZoccoCss/kalisoc](https://github.com/ZoccoCss/kalisoc). This Terraform version aims to provide an alternative deployment option for those comfortable with Terraform.
 
